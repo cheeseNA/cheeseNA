@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center"> Hi 👋, I'm Ryoma Maeda!</h1>
 
-<!--
-**cheeseNA/cheeseNA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on ML web app projects
+- 🌱 I’m currently learning AWS/GCP and DevOps
+- 📫 How to reach me: [**Twitter**][twitter] or [**Email**][email]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheeseNA&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+[twitter]: https://twitter.com/_cheesena
+[linkedin]: https://www.linkedin.com/in/RyomaMaeda
+[github]: https://github.com/cheeseNA
+[instagram]: https://www.instagram.com/ryoumae_romae
+[email]: mailto:kurocat2000@gmail.com

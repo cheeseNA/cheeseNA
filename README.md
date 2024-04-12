@@ -7,6 +7,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheeseNA&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### My Skills
+[![My Skills](https://skillicons.dev/icons?i=gcp,aws,terraform,kubernetes,fastapi,firebase,graphql,mongodb,redis,mysql,pytorch,selenium,sentry,react,tailwind,nextjs,vercel,raspberrypi&perline=9)](https://skillicons.dev)
+
 ---
 
 [twitter]: https://twitter.com/_cheesena
